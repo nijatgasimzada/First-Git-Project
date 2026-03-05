@@ -24,8 +24,8 @@ body {
 }
 
 .card {
-    background-color: #d9d6ca;
-    border-radius: 12px;
+    background-color: #fff9df;
+    border-radius: 4px;
     padding: 40px 32px;
     width: 320px;
     flex-shrink: 0;
